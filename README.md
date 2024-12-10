@@ -122,11 +122,11 @@ The best way to use this attack is if username and password form fields are avai
 
 ## Resultados 🎁
 
-![Alt text](./result.PNG)
+![Alt text](./results1.PNG)
 
 Figura 1: Site de uma faculdade para o portal do aluno
 
-![Alt text](./result2.PNG)
+![Alt text](./results2.PNG)
 
 Figura 2: Imagem do Kali Linux usando a ferramenta SETOOLKIT
 
